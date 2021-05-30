@@ -104,7 +104,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>https://github.com/broven/alfred-getFavicon/tree/main</string>
 	<key>uidata</key>
 	<dict>
 		<key>F2B9C205-84BF-4873-8C1D-45BD16B6685A</key>
@@ -122,6 +122,10 @@
 			<integer>320</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>0.0.1</string>
 	<key>webaddress</key>
 	<string>https://github.com/broven</string>
 </dict>
