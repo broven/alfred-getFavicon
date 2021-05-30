@@ -1,0 +1,13 @@
+{
+  "name": "user.workflow.7C5FDA32-07AC-4FBA-A689-80921B622DBA",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.10.0",
+    "axios": "^0.21.1",
+    "favicon": "^0.0.2",
+    "lodash": "^4.17.21",
+    "temp-dir": "^2.0.0"
+  }
+}
